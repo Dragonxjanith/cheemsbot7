@@ -52,7 +52,7 @@ modul: {
     ytdlcr: require('youtubedl-core'),
     yts: require('yt-search'),
     yt: require('youtube-yts'),
-    ytdl: require('ytdl-core'),
+    ytdl: require('youtubedl-core'),
     webp: require('node-webpmux')
 }
 }
